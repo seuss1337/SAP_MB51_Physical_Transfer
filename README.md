@@ -9,3 +9,6 @@ are created manually, this becomes a tedious and time consuming process.  This s
 reads an excel output export of SAP MB51 pulls all material transfers and fills out an excel 
 transfer sheet for all material transfer documents and saves them to an excel file. One then
 only needs to print out the excel file as opposed to filling each document by hand.
+
+
+# still under development, currently only works for 1 storage location at a time.
